@@ -59,5 +59,6 @@ VS CODE
 
 ![add require mySQL index js file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911162-ce5b1600-fb42-11e9-8429-116df0b0048c.JPG)
 
-(14) Add the connection information to connect to mySQL in routes/index.js file: 
+(14) Add the connection information to connect to mySQL in routes/index.js file: ![add info to connect to mySQL index js file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911187-f2b6f280-fb42-11e9-96e6-9caed90d1af5.JPG)
+
 
