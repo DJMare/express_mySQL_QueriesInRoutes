@@ -63,4 +63,6 @@ VS CODE
 
 (15) Add info for idQuery and the req.params.id to the index.js file: ![add info for idQuery and req params id to index js file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911237-1da14680-fb43-11e9-8813-b255bc699138.JPG)
 
+(16) Navigate to views/index.hbs file: ![open index hbs file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911307-53dec600-fb43-11e9-8fe8-273f9414cf4d.JPG)
+
 
