@@ -67,3 +67,4 @@ VS CODE
 
 (17) Update views/index.hbs file: ![update index hbs file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911353-7a9cfc80-fb43-11e9-897e-035ef1b63d1c.JPG)
 
+(18) Navigate to localhost:3000/actor/1 to test: navigate to localhost3000 to check for actor-1 (express_mySQL_QueriesInRoutes)
