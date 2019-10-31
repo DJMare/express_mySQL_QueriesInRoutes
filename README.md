@@ -55,7 +55,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and update. Need to require the mySQL: 
+(13) Navigate to the routes/index.js file and update. Need to require the mySQL: ![open index js file (express_mySQL_QueriesInRoutes)](https://user-images.githubusercontent.com/35668707/67911132-a4a1ef00-fb42-11e9-9092-3b18cd7fc390.JPG)
+
 
 
 (14) Add the connection information to connect to mySQL in routes/index.js file: 
