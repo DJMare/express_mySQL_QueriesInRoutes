@@ -26,7 +26,8 @@ COMMAND PROMPT
     express --view=hbs express_mySQL_QueriesInRoutes
 
 (6) Once the process is complete, navigate into the express_mySQL_QueriesInRoutes directory: 
-   cd express_mySQL_QueriesInRoutes 
+
+    cd express_mySQL_QueriesInRoutes 
 
 (7) Now in the express_mySQL_QueriesInRoutes directory, run the following: 
 
