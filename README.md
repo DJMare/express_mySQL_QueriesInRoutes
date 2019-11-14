@@ -9,7 +9,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
