@@ -1,4 +1,4 @@
-# express_mySQL_QueriesInRoutes
+# Express_mySQL_QueriesInRoutes
 Queries within routes using SQL in a simple express app. 
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
